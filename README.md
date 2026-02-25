@@ -1,7 +1,7 @@
 # Hello! John here!
 
 Visit this site to go to the project:
-brainrot-react.vercel.app
+(https://brainrot-react.vercel.app)
 
 ## React + Vite
 
