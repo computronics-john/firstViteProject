@@ -1,4 +1,9 @@
-# React + Vite
+# Hello! John here!
+
+Visit this site to go to the project:
+brainrot-react.vercel.app
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
